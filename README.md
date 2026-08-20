@@ -13,10 +13,6 @@ Bir üniversite öğrencisinin kampüs hayatı boyunca ihtiyaç duyabileceği he
 *   **🤝 İkinci El ve İlan Panosu:** Mezun olurken eşya satmak, ders kitabı devretmek veya kayıp eşyaları bulmak için kampüsün dijital pazaryeri.
 *   **🗣️ Serbest Kürsü & Tartışma Alanları:** Bölüm tavsiyeleri, seçmeli ders önerileri ve kampüs gündemi hakkında özgürce fikir alışverişi yapılabilen dinamik başlıklar.
 
-## 🛠️ Teknik Altyapı
-*   **Frontend:** *(Örn: HTML5, CSS3, JavaScript)*
-*   **Backend:** *(Örn: Node.js, Python, PHP)*
-*   **Database:** *(Örn: PostgreSQL, MongoDB)*
 
 ## 💡 Neden Geliştirdim?
 Kampüsteki iletişimsizliği ve bilgi dağınıklığını çözmek, öğrencilerin kendi aralarında kolayca yardımlaşabileceği modern bir dijital alan yaratmak istedim. Bu proje, hem gerçek bir kullanıcı problemine çözüm sunmak hem de bir fikri baştan sona bir ürüne dönüştürme sürecini yönetmek amacıyla hayata geçirildi.
